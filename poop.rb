@@ -4,3 +4,4 @@ puts b
 puts "A group of flamingos is called a"
 puts answer
 puts " ."
+"Flamingos are #{answer}"
